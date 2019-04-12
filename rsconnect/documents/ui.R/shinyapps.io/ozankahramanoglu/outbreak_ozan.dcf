@@ -1,0 +1,13 @@
+name: outbreak_ozan
+title: outbreak_ozan
+username:
+account: ozankahramanoglu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 620554
+bundleId: 1773712
+url: https://ozankahramanoglu.shinyapps.io/outbreak_ozan/
+when: 1545244807.62826
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: OutbreakDetector_sampledata.csv
